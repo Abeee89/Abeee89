@@ -1,67 +1,73 @@
-<h1 align="center">Hi 👋, I'm Atabik (Abeee89)</h1>
+<h1 align="center">👋  Hey there! I'm Atabik Wifaqul</h1>
 
-<p align="center">
-  Software Enthusiast & Open-Source Contributor 💻
-</p>
+###
 
----
+<h2 align="left">About me</h2>
 
-## 👨‍💻 About Me
+###
 
-- 🔭 I’m passionate about coding, building projects, and sharing knowledge.
-- 🤖 I work with various languages including **Python, JavaScript, and HTML/CSS** based on my projects.
-- 🌱 I’m always learning new technologies and improving my skills.
-- 📫 How to reach me: Feel free to connect via GitHub or share a discussion!
+<p align="left">- 🔭 I’m passionate about coding, building projects, and sharing knowledge.<br>- 🤖 I have a strong interest in **Machine Learning & Computer Vision**, and I am fairly proficient in using **OpenCV** and **YOLO** for object detection and vision-based systems.<br>- 🤖 I am also skilled in **IoT and Robotics**, with hands-on experience using **ROS 1** for robot development and system integration.<br>- 💻 I work with various programming languages including **Python, JavaScript, and HTML/CSS** based on my projects.<br>- 🌱 I’m always learning new technologies and continuously improving my technical skills.<br>- 📫 How to reach me: Feel free to connect via GitHub or start a discussion!</p>
 
----
+###
 
-## ⚙️ GitHub Stats
+<h2 align="left">Tech stack :</h2>
 
-> ⭐ Check my repositories below and feel free to explore code, contribute, or leave feedback!
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
-## 📂 Selected Projects
+###
 
-Here are some of the repositories I’ve worked on:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abeee89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abeee89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-### 🔧 Python Projects
-- **program_Ardudrone** – Python project likely related to controlling or programming an Arduino/Drone. :contentReference[oaicite:1]{index=1}
-- **health_Insurance_Prediction** – A predictive model or data project about health insurance. :contentReference[oaicite:2]{index=2}
+###
 
-### 🖼 Web & Front-End
-- **project_photobooth** – HTML based interactive photo booth web project. :contentReference[oaicite:3]{index=3}
-- **Inclusive-Media** – JavaScript project likely focusing on media inclusivity. :contentReference[oaicite:4]{index=4}
-- **Occupational-Health-and-Safety-OHS-Learning-Media** – HTML learning media related to occupational health & safety. :contentReference[oaicite:5]{index=5}
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-atabik-wifaqul-azmi-0b8625289/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/246414089910222848" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-### 📊 Other Projects
-- **Articles_Scrapper** – JavaScript based scraper for articles. :contentReference[oaicite:6]{index=6}
-
----
-
-## 🛠️ Skills
-
-### 📌 Languages & Tools
-<p>
-  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</p>
-<br />
-
-- Python
-- JavaScript
-- HTML & CSS
-- Git & GitHub
-
----
-
-## 🚀 Let’s Connect!
-
-<p align="center">
-  <a href="https://github.com/Abeee89">GitHub</a> •
-  <a href="https://github.com/Abeee89?tab=followers">Followers</a>
-</p>
-
-Thank you for visiting my profile — let’s build something awesome! ✨
+###
